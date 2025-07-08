@@ -1,4 +1,5 @@
 Gerenciador de Tarefas Pessoal com Tkinter
+
 📝 Descrição do Projeto
 Este projeto consiste no desenvolvimento de um Gerenciador de Tarefas Pessoal em formato de aplicação desktop, construído utilizando a linguagem Python e a biblioteca Tkinter para a interface gráfica do usuário (GUI). O objetivo principal é fornecer uma ferramenta intuitiva e eficiente para que o usuário possa organizar, acompanhar e gerenciar suas atividades e compromissos diários.
 
